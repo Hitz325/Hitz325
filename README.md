@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tom!
 
-- 🌱 I’m currently learning Java, JavaScript, and web development. I have used Angular in the past, but enjoy using Springboot to create web apps. 
+- 🌱 I’m currently learning Java, JavaScript, and web development in general. I have used Angular in the past, but enjoy using Springboot to create web apps. 
 I'm always eager to learn a new way to put my apps together. I most recently was able to get an app I created to deploy through Heroku and was able to make it persistent
 with a remote database.
 
