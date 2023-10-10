@@ -4,7 +4,7 @@
 I'm always eager to learn a new way to put my apps together. I most recently was able to get an app I created to deploy through Heroku and was able to make it persistent
 with a remote database.
 
-I have previous coding experience in C++ while studying for my undergrad degree. I look forward to expanding my knowledge base and using my skills to help solve 
+I have previous coding experience in C++ while studying for my undergrad. I look forward to expanding my knowledge base and using my skills to help solve 
 real world problems.
 
 - 📫 thitz2020@gmail.com
